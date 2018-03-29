@@ -165,3 +165,5 @@ Retrieves rates from a PHP array
 
 [php-version-url]: https://packagist.org/packages/florianv/swap
 [php-version-image]: http://img.shields.io/badge/php-5.4+-ff69b4.svg
+
+Trioangle Technologies Pvt. Ltd.,
